@@ -22,4 +22,4 @@ Here is the result of prediction :
 
 <br />
 
-![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=image-classification-tensorflow&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=ArkS0001&repo=ImageRecognition&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
